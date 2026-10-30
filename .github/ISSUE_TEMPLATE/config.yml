@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📧 Direct Email Support
+    url: mailto:cvqprs@gmail.com
+    about: For account billing, sensitive security reports, or private Jira configuration help.
+  - name: 🌐 Official Website
+    url: https://bugagentai.com
+    about: Learn more about features, documentation, and pricing.
